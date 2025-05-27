@@ -1,3 +1,4 @@
 this is feature branching file
 
 this is feature1 braching updated file 
+this is feature branch updated file for confilct
